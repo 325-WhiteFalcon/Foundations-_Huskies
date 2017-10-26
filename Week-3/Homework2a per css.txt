@@ -1,0 +1,32 @@
+	
+			
+		/* background color- light Blue*/
+		
+		body {
+    background-color: lightgray;
+									}
+	/* h1 to be aligned in the center of the page*/
+	/* h1 to be italic*/
+	
+	
+		h1 {
+				text-align: center;
+										}
+			h1	p.italic {
+			font-style: italic;								
+			}			
+	
+
+	
+	p.one {
+    border-style: solid;
+    border-color: blue;					
+	
+	p.one {
+    font-family: "Times New Roman", Times, serif;
+}
+ul. {border: 1px solid black;}
+
+ul.groove {outline-style: groove;}
+
+

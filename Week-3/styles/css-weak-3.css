@@ -1,0 +1,28 @@
+/* background color- light Gray*/
+		
+		body {
+    background-color: lightgray;
+									}
+	/* h1 to be aligned in the center of the page*/
+	/* h1 to be italic*/
+	
+	/* to set margins in paragraphs*/ 
+
+	p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+	}
+	
+	
+	h1 { color: darkblue;
+	
+		}		
+	
+	#nav {width: 180 px;
+		  float: left}
+	
+	p {border-style: groove;
+	font-family:"Times New Roman", Times, serif;}
+	

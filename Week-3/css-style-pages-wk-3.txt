@@ -1,0 +1,25 @@
+/* background color- light Gray*/
+		
+		body {
+    background-color: lightgray;
+									}
+	/* h1 to be aligned in the center of the page*/
+	/* h1 to be italic*/
+	
+	
+	<img class="resize" src="churches_2.jpg" alt="Computer Hope logo small">
+	
+	
+	h1 { color: red;
+	
+		}		
+	
+		p.one {
+				border-style: dotted;
+				border-width: 5px;
+			}
+
+	
+	p {
+    font-family: "Times New Roman", Times, serif;
+}
